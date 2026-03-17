@@ -164,7 +164,6 @@ The application will be accessible at `http://localhost:3000`.
 
 ---
 
-*Developed for the MOSIP Hackathon.*
 
 ```
 
